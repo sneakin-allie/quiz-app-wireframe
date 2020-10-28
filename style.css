@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.outline {
+  margin-bottom: 20px;
+  border: 1px solid grey;
+  padding: 20px;    
+}
